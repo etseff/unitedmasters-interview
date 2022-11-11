@@ -24,7 +24,7 @@ Note: Given the resources, I would normally confirm these questions with a PM
 ## Run the Service:
 1. Clone the repository
 2. Navigate into the directory: ```cd unitedmasters-interview```
-3. Instantiate a virtual environment: ```python3 -m venv venv```
+3. Instantiate a virtual environment: ```python3 -m venv venv```, ```. venv/bin/activate```
 4. Install relevant packages: ```pip install flask```, ```pip install validators```
 5. Run the app: ```flask --app url run``` (The app will be running at http://127.0.0.1:5000)
 
